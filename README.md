@@ -29,7 +29,8 @@
 개인 프로젝트로 java, jsp, JavaScript, html, CSS언어로 웹페이지 제작 경험을 쌓기 위해 진행 하였으며 사용자가 웹 사이트를 이용하여 회원 관리, 로그인을 시도하고 다양한 퀴즈를 풀 수 있게끔 제공하는 것이 목표입니다.
 
 ## 기술 스택
-<img src="https://img.shields.io/badge/jsp-black?style=for-the-badge&logo=google&logoColor=" width="50%" height="100">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" width="50%" height="100"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" width="50%" height="100">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="50%" height="100"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="50%" height="100">
 
 <br>
 <br>
